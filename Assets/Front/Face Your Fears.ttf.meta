@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 875224423be8dea4b805019829697011
+timeCreated: 1512937391
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Face Your Fears
+  fontNames:
+  - Face Your Fears
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
